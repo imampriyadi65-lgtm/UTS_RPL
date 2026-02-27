@@ -121,5 +121,3 @@ Sistem absensi berbasis registrasi online dengan QR Code memungkinkan tamu menda
 
 ---
 
-📂 Repo ini juga menyertakan diagram dan dokumentasi lengkap sistem:  
-[UTS-Rekayasa-Perangkat-Lunak](https://github.com/hawasih/UTS-Rekayasa-Perangkat-Lunak)
